@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(253, 251, 251);
+}
+#titulo{
+    text-align: center;
+    
+}
+header{
+    background-color: green;
+    padding: 10px;
+    left: 0;
+    right: 0;
+}
+header h1{
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    font-size: 40px;
+}
+#cabecalho{
+    position: fixed;
+    top: 0;
+}
+a{
+    text-decoration: none;
+    margin: 15px;
+}
+section{
+    height: 400px;
+    width: 250px;
+    margin-left: 0;
+    margin-top: 165px;
+}
+#minha_foto{
+    height: 300px;
+    border-radius: 10px;
+}
+main{
+    height: 400px;
+    width: 350px;
+}
+aside{
+    margin-top: 40px;
+}
+    #lições{
+        color: black;
+}
+article{
+    margin-top: 40px;
+}
+#licoes_aprendidas{
+    line-height: 30px ;
+    display: inline-block;
+}
+#licoes_a_aprender{
+    line-height: 30px;
+    display: inline-block;
+}
+.lado-esquerdo{
+    max-width: 40%;
+    display: inline-block;
+    text-align: center;
+}
+.lado-direito{
+    max-width: 40%;
+    display: inline-block;
+    text-align: center;
+    float: right;
+}
+footer{
+height: 30px;
+width: 300px;
+margin-top: 80px;
+}
+
